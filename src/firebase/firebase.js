@@ -11,7 +11,7 @@ const firebaseConfig = {
     projectId: "app-peliculas-crud-dwfsm2s16",
     storageBucket: "app-peliculas-crud-dwfsm2s16.appspot.com",
     messagingSenderId: "492508291328",
-    appId: "1:492508291328:web:5a6465e65cda6733c5d3e5"
+    appId: "1:492508291328:web:f9881e0df436aba4c5d3e5"
   };
 
 
